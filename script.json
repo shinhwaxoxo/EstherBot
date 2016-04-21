@@ -1,7 +1,12 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hi!",
+    "HI":"Hi!",
+    "FRIEDA": "What can I do for you?",
+    "HOW ARE YOU": "I'm great, thank you.",
+    "WHERE ARE YOU": "Right now I'm in Tokyo, Japan.",
+    "RESUME": "This is where you can see my resume: http://bit.ly/1YIx3VL"
+    "DO YOU SPEAK JAPANESE": "少しです",
+    "HOW IS YOUR JAPANESE": "少しです",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Hi again!."
 }
